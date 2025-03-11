@@ -1,0 +1,4 @@
+Bollywood Songs Genre Classification
+
+
+This repository houses the ADA Project, aimed at classifying Bollywood song genres using advanced audio processing techniques. By leveraging the Librosa library for feature extraction from audio files and employing machine learning models such as Neural Networks and Convolutional Neural Networks, the project achieves genre classification with high accuracy. The audio data is preprocessed to standardize duration and sampling rates, with features like MFCCs, Chroma, and spectral properties extracted to train the models. This project includes detailed Jupyter notebooks for each step from preprocessing, feature extraction, model training, to the final genre classification, providing an end-to-end solution for audio-based machine learning tasks on Bollywood music genres.
